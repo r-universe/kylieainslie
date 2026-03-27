@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "mitey"]
 	path = mitey
-	url = https://github.com/cran/mitey
+	url = https://github.com/kylieainslie/mitey
